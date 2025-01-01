@@ -50,7 +50,7 @@ This calculation helped calculate caller satisfaction which scored a mean of 3.4
 ![image](https://github.com/user-attachments/assets/0b9a6993-4add-4cf3-9d09-bfeb416f4a45)
 
 ## Dashboard visualization
-To interact with the above insights, 
+To interact with the above insights [here](https://public.tableau.com/authoring/CallCenterOperationAnalysis/CallCenterOperationAnalysis#2)
 ![Call Center Operation Analysis (1)](https://github.com/user-attachments/assets/8c266040-dc42-499a-8aa7-c714d12fbd2d)
 
 
