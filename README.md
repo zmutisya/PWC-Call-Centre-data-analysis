@@ -1,5 +1,10 @@
 ### The Overview
-This is a part of my virtual case experience on pwc call centre trends analysis offered by forage. Here I used some useful insights like - total call answered/rejected, calls duration, calls resolved/unresolved, agents statistics, customer satisfaction, used slicers, cards, charts and used data cleansing, Dax function, added new measures & columns. 
+This is a part of my virtual case experience on pwc call centre trends analysis offered by forage. The main objective of the analysis is to evaluate the call the center performance, efficiency and customer satisfaction.
+## Tools used
+* Pandas
+* NumPy
+* Tanleau
+* 
 ## Exploratory Data Analysis (EDA)
 The dataset has 5001 rows and the following 10 columns
 * Call Id: Unique identifier for each call (object type).
@@ -44,5 +49,7 @@ Customer satifaction metric
 This calculation helped calculate caller satisfaction which scored a mean of 3.4
 ![image](https://github.com/user-attachments/assets/0b9a6993-4add-4cf3-9d09-bfeb416f4a45)
 
+## Dashboard visualization
+To interact with the above insights, 
 
 
