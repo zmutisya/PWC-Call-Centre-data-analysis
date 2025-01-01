@@ -1,5 +1,5 @@
 ### The Overview
-This is a part of my virtual case experience on pwc call centre trends analysis offered by forage. The main objective of the analysis is to evaluate the call the center performance, efficiency and customer satisfaction.
+This is a part of my virtual case experience on pwc call centre trends analysis offered by forage. The main objective of the analysis is to evaluate the call the center performance, efficiency and customer satisfaction. The extracted data is for period between 1/1/2021 and 31/3/2021.
 ## Tools used
 * Pandas
 * NumPy
