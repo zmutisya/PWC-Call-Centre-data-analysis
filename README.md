@@ -43,5 +43,11 @@ The key objective of the EDA and DDA is to understand the dataset structure, ide
 ## Tableau Dashboard
 I have created a Tableau dashboard for the above analysis namely Call Center Operation Analysis to visualize and address the key questions. To interact with the above insights [here](https://public.tableau.com/app/profile/zakayo.mutisya/viz/CallCenterOperationAnalysis/CallCenterOperationAnalysis)
 ![Call Center Operation Analysis (1)](https://github.com/user-attachments/assets/8c266040-dc42-499a-8aa7-c714d12fbd2d)
-
+## Findings
+* The CRR stands at 89.94% indicating effective issue resolution. This highlights the agents proficiency in providing satisfactory solutions during the first contact.
+* The ACD is 224.92 seconds which is approximately 3 minutes and 45 seconds.This reflects efficient call handling practices that contribute positively to the high CRR.
+* Call abandonment rate is 0% which demonstrates minimal caller frustration achieved through immediate assistance and reasonable wait times.
+* The average hold time of 67.52 seconds supporting the low abandonment rate of 0%. This indicates that agents are available in a timely manner to address customer issues.
+* SLA adherence shows that 70% of calls are answered within 90 seconds. While this meets the Call Center standard, further optimization of post-call tasks may enhance adherence without compromising customer service quality.
+* The caller satisfaction score rated at 3.4 out of 5 which suggests there is moderate satisfaction levels. This indicates room for improvement in aligning the caller experience with the resolution rates and other service metrics.
 
