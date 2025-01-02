@@ -1,10 +1,13 @@
-### The Overview
-This is a part of my virtual case experience on pwc call centre trends analysis offered by forage. The main objective of the analysis is to evaluate the call the center performance, efficiency and customer satisfaction. The extracted data is for period between 1/1/2021 and 31/3/2021.
-## Tools used
-* Pandas
-* NumPy
-* Tanleau
-* 
+## The Overview
+This is a part of my virtual case experience on pwc call centre trends analysis offered by forage. 
+## Objective
+The main objective of the analysis is to evaluate the call the center performance, efficiency and customer satisfaction. The extracted data is for period between 1/1/2021 and 31/3/2021.
+## Tools 
+* Python: Data cleaning, EDA and DDA
+* Libraries: Pandas, NumPy, Matplotlib and Seaborn
+* Tableau: Interactive visualization
+## Data Collection
+The data used in this project is extracted from Kaggle platform. Here is the [dataset]()  
 ## Exploratory Data Analysis (EDA)
 The dataset has 5001 rows and the following 10 columns
 * Call Id: Unique identifier for each call (object type).
