@@ -22,18 +22,24 @@ The data used in this project is extracted from Kaggle platform. Here is the [da
 * Check for missing values
 * Check for duplicates
 * Check data types
-Here is the [code]()
-The initial observation of the dataset
-The column Call Id and Agent have the unique identifiers in the dataset.
-There are no duplicates in the dataset.
-![missing values](https://github.com/user-attachments/assets/56a1f794-9b9c-401c-9080-fa6ccbf8de6b)
-* After the analysis the missing values are present in Speed of answer in seconds, AvgTalkDuration, and Satisfaction rating columns
-* Object columns like AvgTalkDuration need to be converted to a suitable numeric or time-based format for analysis.
-## Data cleaning
-![datetime ](https://github.com/user-attachments/assets/e0985823-afe0-430c-ba41-cc294610675f)
-Converted date and time to datetime types and AvgTalkDuration to seconds. This is necessary for effective data analysis
-## Descriptive Data Analysis (DDA)
-To summarize and describe the main features of the dataset, I conducted DDA to get total calls made to the call center which total to 4054
+Here is the [code](https://github.com/zmutisya/PWC-Call-Centre-data-analysis/blob/master/call_centre_metric_interpretation.ipynb)
+My initial observation of the dataset is that;
+* The column Call Id and Agent have the unique identifiers.
+* There are no duplicates in the dataset.
+* The dataset contains missing values in the three columns
+    * Speed of answer in seconds
+    * AvgTalkDuration
+    * Satisfaction rating 
+* AvgTalkDuration datatype need to be converted to a suitable numeric or time-based format for better analysis.
+## Key Questions
+* What is the Call Resolution Rate(CRR) once a call is received?
+* What is the Average Call Duration(ACD) when the call is reveived?
+* What is the Abondonment Rate before the call is received?
+* What is the Average Hold Time(AHT) before the call is received by an agent?
+* How well does the team adhere to the Service Level Agreement(SLA)?
+* What is the Customer Satisfaction Rate (CSR)?  
+## Exploratory Data Analysis(EDA) and Descriptive Data Analysis (DDA)
+The key objective of the EDA and DDA is to understand the dataset structure, identify relationship among the key metrics and provide clear overview of the key metrics while answering the key questions. Here is the [code] for the EDA and DDA
 ![Total calls](https://github.com/user-attachments/assets/5f055e2a-84fb-475e-b5d6-57dd0bbf5cff)
 I also analysed the total number of unique callers at the call center to determine the total number of individual callers.
 ![unique callers](https://github.com/user-attachments/assets/fd071334-0b90-455e-ae73-46193e5f56a0)
