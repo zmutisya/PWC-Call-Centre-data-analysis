@@ -1,7 +1,7 @@
 ## The Overview
-This is a part of my virtual case experience on pwc call centre trends analysis offered by forage. 
+This analysis focuses on a dataset from the PWC call center covering the period from January 1, 2021, to March 31, 2021.    
 ## Objective
-The main objective of the analysis is to evaluate the call the center performance, efficiency and customer satisfaction. The extracted data is for period between 1/1/2021 and 31/3/2021.
+The main objective of the analysis is to evaluate the call center key performance metrics to assess the efficiency, effectiveness and customer satisfaction rate. The extracted data is for period between 1/1/2021 and 31/3/2021.
 ## Tools 
 * Python: Data cleaning, EDA and DDA
 * Libraries: Pandas, NumPy, Matplotlib and Seaborn
