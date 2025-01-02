@@ -7,20 +7,23 @@ The main objective of the analysis is to evaluate the call the center performanc
 * Libraries: Pandas, NumPy, Matplotlib and Seaborn
 * Tableau: Interactive visualization
 ## Data Collection
-The data used in this project is extracted from Kaggle platform. Here is the [dataset](https://github.com/zmutisya/PWC-Call-Centre-data-analysis/blob/master/Call_Center_Dataset.csv)  
-## Exploratory Data Analysis (EDA)
-The dataset has 5001 rows and the following 10 columns
-* Call Id: Unique identifier for each call (object type).
-* Agent: Name of the agent handling the call (object type).
-* Date: Date of the call (object type).
-* Time: Time of the call (object type).
-* Topic: The topic of the call (object type).
-* Answered (Y/N): Indicates whether the call was answered (object type).
-* Resolved: Indicates whether the issue was resolved (object type).
-* Speed of answer in seconds: Time taken to answer a call (float type).
-* AvgTalkDuration: Duration of the call (object type, likely in "hh:mm:ss" format).
-* Satisfaction rating: Customer satisfaction score (float type).
-## The initial observation of the dataset
+The data used in this project is extracted from Kaggle platform. Here is the [dataset](https://github.com/zmutisya/PWC-Call-Centre-data-analysis/blob/master/Call_Center_Dataset.csv) The dataset has 5001 rows and the following 10 columns
+* Call Id: Unique identifier for each call.
+* Agent: Name of the agent handling the call.
+* Date: Date of the call.
+* Time: Time of the call.
+* Topic: The topic of the call.
+* Answered (Y/N): Indicates whether the call was answered.
+* Resolved: Indicates whether the issue was resolved.
+* Speed of answer in seconds: Time taken to answer a call.
+* AvgTalkDuration: Duration of the call.
+* Satisfaction rating: Customer satisfaction score.
+## Data Quality Check 
+* Check for missing values
+* Check for duplicates
+* Check data types
+Here is the [code]()
+The initial observation of the dataset
 The column Call Id and Agent have the unique identifiers in the dataset.
 There are no duplicates in the dataset.
 ![missing values](https://github.com/user-attachments/assets/56a1f794-9b9c-401c-9080-fa6ccbf8de6b)
